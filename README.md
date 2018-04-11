@@ -9,13 +9,14 @@
 - Databroker support
 
 ### Installation
-The ZIP file you downloaded should contain the following 4 folders:
-1. Bagnon
-1. Bagnon_Forever
-1. Bagnon_Options
-1. Bagnon_Tooltips
+The ZIP file you downloaded should contain a top-level directory (e.g. *Bagnon-master*), inside of which should be the following 4 subdirectories:
+1. ***Bagnon***
+1. ***Bagnon_Forever***
+1. ***Bagnon_Options***
+1. ***Bagnon_Tooltips***
 
-Place each of these folders and their contents into \<*WoW-Game-Folder*\>/Interface/Addons, and then start/restart your game.
+- Extract each of these 4 subdirectories and place them (and their contents) into <***WoW-Game-Folder***>*/Interface/Addons/*
+- Start/restart your game.
 
 ### Original Addon
 The official Bagnon Addon website is:

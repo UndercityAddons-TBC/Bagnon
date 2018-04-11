@@ -1,0 +1,24 @@
+﻿## Interface: 20400
+## Title: Bagnon
+## Author: Tuller
+## Notes: Single window displays for the inventory and bank
+## Notes-zhTW: 以單一視窗顯示背包和銀行
+## Notes-zhCN: 在单一框架内显示背包或银行中的物品
+## SavedVariablesPerCharacter: BagnonSets
+## Version: 1.5.2
+## OptionalDeps: Ace3, Bagnon_Forever
+embeds.xml
+localization\localization.lua
+localization\localization.de.lua
+localization\localization.fr.lua
+localization\localization.cn.lua
+localization\localization.es.lua
+localization\localization.tw.lua
+core\utility.lua
+core\item.lua
+core\bag.lua
+core\bagFrame.lua
+core\money.lua
+core\frame.lua
+core\spot.lua
+main.lua

@@ -1,0 +1,15 @@
+﻿## Interface: 20400
+## Title: Bagnon Options
+## Notes: A configuration menu for Bagnon
+## Notes-zhTW: Bagnon 的設定選單
+## Notes-zhCN: Bagnon 的设置菜单
+## Author: Tuller
+## Dependencies: Bagnon
+## LoadOnDemand: 1
+localization\localization.lua
+localization\localization.es.lua
+localization\localization.fr.lua
+localization\localization.de.lua
+localization\localization.cn.lua
+localization\localization.tw.lua
+menu.lua
